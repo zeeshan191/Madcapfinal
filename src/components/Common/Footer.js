@@ -19,7 +19,7 @@ function Footer() {
         <h4 style={{fontWeight: '700'}}>EMAIL</h4>
 
         <ul className="list-unstyled">
-        <p><NavLink to="/www.gamil.com">madcapsloution@gmail.com</NavLink><br /></p>
+        <p>info@madcapsolution.com<br /></p>
         </ul>
       </div>
     </div>

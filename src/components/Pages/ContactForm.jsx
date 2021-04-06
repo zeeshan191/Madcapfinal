@@ -164,7 +164,7 @@ const ContactForm = () => {
                         <div className="info">
                           <p>
                             Send Us Mail
-                                                <span>madcapsloution@gmail.com</span>
+                                                <span>info@madcapsolution.com</span>
                           </p>
                         </div>
                       </li>

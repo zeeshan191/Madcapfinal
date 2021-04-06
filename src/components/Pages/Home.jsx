@@ -405,7 +405,7 @@ const Home = () => {
                       <div className="info">
                         <p>
                           Send Us Mail
-                                                <span>madcapsloution@gmail.com</span>
+                                                <span>info@madcapsloution.com</span>
                         </p>
                       </div>
                     </li>
